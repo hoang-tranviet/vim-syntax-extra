@@ -3,6 +3,11 @@ Vim syntax highlighting extras
 
 A collection of syntax definitions not yet shipped with stock vim.
 
+How to install
+---------------
+    cp ./plugin/vim-syntax-extra.vim  ~/.vim/plugin/
+    cp ./after/syntax    ~/.vim/  -r
+
 Bison, Flex
 -------------------------------------------------------------------------------
 **Author:** Panayiotis Karabassis | [Source](https://groups.google.com/d/msg/vim_use/-cHCX2MkpOg/bPoDIRyEqqIJ)
